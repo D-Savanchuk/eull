@@ -1,3 +1,5 @@
+// O(n)
+
 console.time('TIME')
 function test(){
     const numbers = [
